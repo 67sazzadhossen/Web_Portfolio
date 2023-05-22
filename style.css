@@ -1,0 +1,27 @@
+body{
+    font-family: 'Quicksand', sans-serif;
+}
+h1{
+    font-size: 50px;
+    
+}
+.name-highlight{
+    color: rgb(205, 7, 96);
+}
+.half-side{
+    width: 40%;
+    float: left;
+    padding-left: 5%;
+    margin-left: 2%;
+}
+.half-side img{
+    width: 70%;
+}
+.button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: aliceblue;
+    font-weight: bold;
+}
